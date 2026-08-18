@@ -1,5 +1,4 @@
 # Data Visualization
-Links to repositories.
 
 ## Python
 
