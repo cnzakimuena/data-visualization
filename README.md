@@ -12,12 +12,12 @@
   <tbody>
     <!-- Bivariate -->
     <tr>
+      <td rowspan="2"><b>Bivariate</b></td>
       <td><a href="https://github.com/cnzakimuena/plot_association">Association plot</a></td>
       <td>Systolic blood pressure</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td rowspan="2"><b>Bivariate</b></td>
       <td><a href="https://github.com/cnzakimuena/plot_bland_altman">Bland-Altman plot</a></td>
       <td>Systolic blood pressure</td>
       <td>Python</td>
