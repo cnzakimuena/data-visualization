@@ -62,7 +62,7 @@
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/cnzakimuena/darkBar3">3D Bar Graph</a></td>
+      <td><a href="https://github.com/cnzakimuena/darkBar3">3D Bar Plot</a></td>
       <td>Iris</td>
       <td>MATLAB</td>
     </tr>
