@@ -119,12 +119,60 @@
     <tr>
       <td align="center">
         <h3>Association Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_association/main/figure.png" alt="Association Plot" width="200">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_association/main/figure.png" alt="Association Plot" height="200">
       </td>
       <td width="48"></td>
       <td align="center">
         <h3>Bland-Altman Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bland_altman/main/figure.png" alt="Bland-Altman Plot" width="247">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bland_altman/main/figure.png" alt="Bland-Altman Plot" height="200">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Composition
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Stacked Bar Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_stacked_bar/main/figure.png" alt="Stacked Bar Plot" height="200">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Group Comparison
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Bar Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bar/main/figure.png" alt="Bar Plot" height="200">
+      </td>
+      <td width="10"></td>
+      <td align="center">
+        <h3>Box Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_box/main/figure.png" alt="Box Plot" height="200">
+      </td>
+      <td width="10"></td>
+      <td align="center">
+        <h3>Mean Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_mean/main/figure.png" alt="Mean Plot" height="200">
+      </td>
+      </td>
+      <td width="10"></td>
+      <td align="center">
+        <h3>Quartiles Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_quartiles/main/figure.png" alt="Quartiles Plot" height="200">
+      </td>
+      </td>
+      <td width="10"></td>
+      <td align="center">
+        <h3>Violin Plot</h3>
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_violin/main/figure.png" alt="Violin Plot" height="200">
       </td>
     </tr>
   </table>
