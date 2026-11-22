@@ -1,6 +1,7 @@
 
 <div align="center">
 <h1><code>Data Visualization</code></h1>
+<br>
 </div>
 
 <table>
