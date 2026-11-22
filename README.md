@@ -119,12 +119,12 @@
     <tr>
       <td align="center">
         <h3>Association Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_association/main/figure.png" alt="Association Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_association/main/figure.png" alt="Association Plot" height="250">
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Bland-Altman Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bland_altman/main/figure.png" alt="Bland-Altman Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bland_altman/main/figure.png" alt="Bland-Altman Plot" height="250">
       </td>
     </tr>
   </table>
@@ -137,7 +137,7 @@
     <tr>
       <td align="center">
         <h3>Stacked Bar Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_stacked_bar/main/figure.png" alt="Stacked Bar Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_stacked_bar/main/figure.png" alt="Stacked Bar Plot" height="250">
       </td>
     </tr>
   </table>
@@ -150,12 +150,12 @@
     <tr>
       <td align="center">
         <h3>Bar Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bar/main/figure.png" alt="Bar Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_bar/main/figure.png" alt="Bar Plot" height="250">
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Box Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_box/main/figure.png" alt="Box Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_box/main/figure.png" alt="Box Plot" height="250">
       </td>
     </tr>
   </table>
@@ -166,7 +166,7 @@
     <tr>
       <td align="center">
         <h3>Difference Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_difference/main/figure.png" alt="Difference Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_difference/main/figure.png" alt="Difference Plot" height="250">
       </td>
     </tr>
   </table>
@@ -177,18 +177,18 @@
     <tr>
       <td align="center">
         <h3>Mean Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_mean/main/figure.png" alt="Mean Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_mean/main/figure.png" alt="Mean Plot" height="250">
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Quartiles Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_quartiles/main/figure.png" alt="Quartiles Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_quartiles/main/figure.png" alt="Quartiles Plot" height="250">
       </td>
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Violin Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_violin/main/figure.png" alt="Violin Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_violin/main/figure.png" alt="Violin Plot" height="250">
       </td>
     </tr>
   </table>
@@ -199,12 +199,12 @@
     <tr>
       <td align="center">
         <h3>3D Bar Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/darkBar3/master/figure.png" alt="3D Bar Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/darkBar3/master/figure.png" alt="3D Bar Plot" height="250">
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Significance Level</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/statTest/master/figure.png" alt="Significance Level" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/statTest/master/figure.png" alt="Significance Level" height="250">
       </td>
     </tr>
   </table>
@@ -217,7 +217,7 @@
     <tr>
       <td align="center">
         <h3>Panel Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_panel/main/figure.png" alt="Panel Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_panel/main/figure.png" alt="Panel Plot" height="250">
       </td>
     </tr>
   </table>
@@ -230,12 +230,12 @@
     <tr>
       <td align="center">
         <h3>Line Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_line/main/figure.png" alt="Line Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_line/main/figure.png" alt="Line Plot" height="250">
       </td>
       <td width="50"></td>
       <td align="center">
         <h3>Paired Plot</h3>
-        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_paired/main/figure.png" alt="Paired Plot" height="300">
+        <img src="https://raw.githubusercontent.com/cnzakimuena/plot_paired/main/figure.png" alt="Paired Plot" height="250">
       </td>
     </tr>
   </table>
