@@ -157,17 +157,11 @@
         <h3>Box Plot</h3>
         <img src="https://raw.githubusercontent.com/cnzakimuena/plot_box/main/figure.png" alt="Box Plot" height="250">
       </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
+      <td width="50"></td>
       <td align="center">
         <h3>Difference Plot</h3>
         <img src="https://raw.githubusercontent.com/cnzakimuena/plot_difference/main/figure.png" alt="Difference Plot" height="250">
-      </td>
+      </td>      
     </tr>
   </table>
 </div>
